@@ -5,7 +5,7 @@ output:
   pdf_document: default
 date: '`r Sys.Date()`'
 ---
-
+LINK: https://github.com/lincTHU/DA5020/blob/master/Lin_C_4.Rmd
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   # mute messages output
